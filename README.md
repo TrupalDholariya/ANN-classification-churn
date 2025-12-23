@@ -3,6 +3,11 @@
 A Machine Learning project that uses an **Artificial Neural Network (ANN)** to predict customer churn.  
 This system helps businesses identify which customers are likely to leave the service, enabling proactive retention strategies.
 
+## 🔗 Live Demo (Streamlit App)
+
+You can interact with the Laptop Price Predictor through the Streamlit web application:
+
+👉 *Live Demo:* https://ann-classification-churn-oameadct8eagkwcncxgyxy.streamlit.app/
 ---
 
 ## 🚀 Project Overview
